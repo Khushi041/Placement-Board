@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Placement Board
 
 Placement Board is a web portal developed under the MERN (MongoDB, Express.js, React.js, Node.js) stack, catering to the students of LDRP ITR. It serves as an advanced placement platform where students can explore new job and internship opportunities, access past placement data, and enhance their skills through comprehensive training resources.
@@ -34,3 +35,6 @@ If you encounter any issues or have any feedback regarding Placement Board, plea
 
 Thank you for using Placement Board!
 
+=======
+# Placement-Board
+>>>>>>> 5a1bb73751319476b9be33106b8861ba5c0a858a
